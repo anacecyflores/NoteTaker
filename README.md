@@ -21,7 +21,7 @@ npm i, node
 
 # Usage:
 
-click on the Heroku deployment link and at the top type the title of the note, a description and click on the top right save icon to save your note!
+click on the Heroku deployment link: https://nw-note-taker.herokuapp.com/ and at the top type the title of the note, a description and click on the top right save icon to save your note!
 
 # Contributors:
 
@@ -43,3 +43,4 @@ Licensed under the [MIT](https://opensource.org/licenses/MIT) License.
 - Email me at anacecyflores1@gmail.com
 
 # Demos
+![notetaker](https://user-images.githubusercontent.com/95557040/174419914-e57fa039-7eee-43f0-a8d6-565efb831818.gif)
